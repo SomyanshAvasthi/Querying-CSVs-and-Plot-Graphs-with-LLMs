@@ -10,3 +10,7 @@ The project also integrates Streamlit, a tool that facilitates the creation of i
 Environment configuration is managed using python-dotenv, a library that securely handles environment variables, ensuring that API keys and other sensitive information are managed appropriately. This setup not only secures the application but also simplifies the configuration process for users.
 
 In summary, this project utilizes advanced technical components such as LLMs, pandas, matplotlib, Streamlit, and python-dotenv to create a powerful tool for querying CSV files and visualizing data. The integration of these technologies allows users to interact with complex datasets using natural language, making data analysis more accessible, intuitive, and efficient.
+
+![image](https://github.com/user-attachments/assets/ae50150a-ec64-44f7-ac67-6d6185ca8432)
+
+Incorporating the power of natural language and advanced data tools, this project redefines how we interact with and derive insights from CSV data. By bridging the gap between complex data analysis and intuitive user experience, it empowers users to unlock meaningful insights effortlessly. This innovation marks a significant step towards democratizing data-driven decision-making and fostering a more accessible approach to analytics.
